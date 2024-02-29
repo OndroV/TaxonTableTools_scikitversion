@@ -23,7 +23,7 @@ setuptools.setup(
                         'openpyxl>=3.0.3',
                         'xlsxwriter>=1.2.7',
                         'biopython>=1.77',
-                        'scikit-bio==0.5.6',
+                        'scikit-bio>=0.5.8',
                         'requests_html>=0.10.0',
                         'scipy>=1.5.1',
                         'shapely>=1.7.1',
